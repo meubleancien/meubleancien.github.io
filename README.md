@@ -2,7 +2,30 @@
 get to the neeeeeet
 [rrrrr](https://github.com/meubleancien)
 
-* un
-* et deux
-* et trois
+
+## Economics
+* ref
+* idea
+
+## Game Theory
+* ref
+* idea
+
+## Mathematics
+* ref
+* idea
+
+## Philosophy
+* ref
+* idea
+
+## Blockchain 
+* ref
+* idea
+
+# Computer Science
+* ref
+* idea
+
+
 
