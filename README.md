@@ -23,7 +23,7 @@ get to the neeeeeet
 * ref
 * idea
 
-# Computer Science
+## Computer Science
 * ref
 * idea
 
