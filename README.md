@@ -1,4 +1,4 @@
-### Salut
+# Salut
 Find here some topics I am interested in, as I think they can have a real impact on many problems we face nowadays (or because they are just fun to investigate).
 This also serves as a refs/ideas reminder for me. 
 
