@@ -1,6 +1,5 @@
 # meubleancien
-get to the neeeeeet
-[rrrrr](https://github.com/meubleancien)
+Find here some topics I am interested in, as I think they can have a real impact on many problems we face nowadays (or because they are just really fun to investigate).
 
 
 ## Economics
