@@ -34,8 +34,7 @@ This also serves as a refs/ideas reminder for me.
 
 ## Miscellaneous
 * [biking](https://pedalchile.com/blog/cycling-vs-walking)
-*
-*
+
 
 
 
