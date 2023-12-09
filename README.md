@@ -33,7 +33,7 @@ This also serves as a refs/ideas reminder for me.
 * idea
 
 ## Miscellaneous
-* biking
+* [biking](https://pedalchile.com/blog/cycling-vs-walking)
 *
 *
 
