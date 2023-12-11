@@ -1,6 +1,6 @@
 # 
 Find here some topics I am interested in, as I think they can have a real impact on many problems we face nowadays (or because they are just fun to investigate).
-This also serves as a refs/ideas reminder for me. 
+This also serves as a refs/ideas reminder for me.
 (If you're reading this and your name is Christina, then I send you a kiss)
 
 
@@ -17,8 +17,12 @@ This also serves as a refs/ideas reminder for me.
 * idea
 
 ## Statistics/ML
+* ref
+* idea
 
 ## Artificial intelligence
+* ref
+* idea
 
 
 ## Philosophy
