@@ -3,6 +3,11 @@ Find here some topics I am interested in, as I think they can have a real impact
 This also serves as a refs/ideas reminder for me.
 
 
+### New content: how to judge facts instead of values during social time.  (personal experience) 
+ 
+
+
+
 ## Economics
 * ref
 * idea
