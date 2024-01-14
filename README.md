@@ -8,9 +8,13 @@ This also serves as a refs/ideas reminder for me.
 # 
 Conflicts
 dfdgfd edg dg
+
+
 # 
 Realization
 fed dfd f
+
+
 # 
 What Now ? 
 sfds
