@@ -6,18 +6,18 @@ This also serves as a refs/ideas reminder for me.
 ### New Content: How To Judge Facts Instead Of Values During Social Interaction Time ? (personal experience) 
  
  
-*Conflicts* 
+**Conflicts**
 
 dfdgfd edg dg
 
 
 
-*Realization*  
+**Realization**  
 
 fed dfd f
 
 
-*What Now ?*  
+**What Now ?** 
 
 sfds
 fsfs
