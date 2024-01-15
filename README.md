@@ -3,21 +3,21 @@ Find here some topics I am interested in, as I think they can have a real impact
 This also serves as a refs/ideas reminder for me.
 
 
-### New Content: How To Judge Facts Instead Of Values During Social Interaction Time ? (personal experience) 
+## New Content: How To Judge Facts Instead Of Values During Social Interaction Time ? (personal experience) 
  
  
-**Conflicts**
+#### Conflict
 
 dfdgfd edg dg
 
 
 
-**Realization**  
+#### Realization
 
 fed dfd f
 
 
-**What Now ?** 
+#### What Now ?
 
 sfds
 fsfs
