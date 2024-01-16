@@ -15,16 +15,15 @@ these fight were absurdity, inefficiency, blind anger, and animal primitivity (w
 
 #### Realization
 
-fed dfd f
+stay tuned
 
 
 #### Reinforcement
 
-sfds
-fsfs
+stay tuned 
 
                                 ###############
-                          ######      END      ######
+                          ######      END   🍓    ######
                                 ###############
 
 ## Economics
