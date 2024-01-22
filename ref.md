@@ -1,7 +1,4 @@
----
 layout: page
-title: "PAGE-TITLE"
-permalink: /Refs
----
+title: "Coffee Journey"
+permalink: https://meubleancien.github.io/coffee_journey
 
-### Refs
