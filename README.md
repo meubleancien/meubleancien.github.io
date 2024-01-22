@@ -60,7 +60,8 @@ stay tuned
 * idea
 
 ## Miscellaneous
-* [biking](https://pedalchile.com/blog/cycling-vs-walking) 
+* [biking](https://pedalchile.com/blog/cycling-vs-walking)
+* [Coffee Journey]({{ https://meubleancien.github.io/ }}{% link coffee_journey.md %})
   
 
 
