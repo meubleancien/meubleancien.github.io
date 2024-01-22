@@ -2,9 +2,9 @@
 layout: page
 title: "Coffee Journey"
 permalink: /coffee_journey
-theme: amelia
 ---
 
+@import "{{ site.theme }}";
 
 ## teste stes test 
 
