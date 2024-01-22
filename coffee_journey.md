@@ -4,7 +4,7 @@ title: "Coffee Journey"
 permalink: /coffee_journey
 ---
 
-@import "{{ site.theme }}";
+@import "{{ site.theme }}"
 
 ## teste stes test 
 
