@@ -14,8 +14,10 @@ permalink: /coffee_journey
 
 #### Geographical origins 
 
->Ethiopia, Kaffa 
->800 A.D 
+>Ethiopia, Kaffa
+
+>800 A.D
+
 >goat herder Kaldi observing energetic goat, reported that to a monk that turned into an energetic praying goat
 
 #### Diffusion in the area
