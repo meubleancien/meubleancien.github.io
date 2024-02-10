@@ -29,10 +29,12 @@ stay tuned
 ## Economics
 * ref
 * idea
+* notions: causal inference
 
 ## Game Theory
 * ref
 * idea
+* notions: mechanism design 
 
 ## Mathematics
 * ref
@@ -45,6 +47,7 @@ stay tuned
 ## Artificial intelligence
 * ref
 * idea
+* notions: transformers
 
 
 ## Philosophy
