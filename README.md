@@ -28,30 +28,53 @@ stay tuned
 
 
 ## Machine Learning & Artificial Intelligence
-### Deep Learning
+
+### *Deep Learning*
 * ref 1
 * ref 2
   
-### Conformal prediction
+### *Conformal prediction*
 * ref 1
 * ref 2
 
 ## Mathematics
+
+### *Linear Algebra*
 * ref
 * idea
 
 ## Statistics & Econometrics
+
+### *Instrumental Variables*
 * ref
 * idea
+
+### *Causal Inference*
+* ref
+* idea
+
 
 ## Economics & Game Theory
+
+### *Mechanism Design*
 * ref
 * idea
-* notions: mechanism design
+
+### *Games*
+* ref
+* idea
+
 
 ## Blockchain 
+
+### *Smart Contracts*
 * ref
 * idea
+
+### *DAOs*
+* ref
+* idea
+
 
 ## Miscellaneous
 * [biking](https://pedalchile.com/blog/cycling-vs-walking)
