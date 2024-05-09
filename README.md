@@ -79,7 +79,6 @@ stay tuned
 ## Miscellaneous
 * [biking](https://pedalchile.com/blog/cycling-vs-walking)
 
-## Coffee
 * [Coffee Journey]({{ https://meubleancien.github.io/ }}{% link coffee_journey.md %})
 
   
