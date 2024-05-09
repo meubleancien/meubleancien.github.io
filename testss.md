@@ -4,6 +4,6 @@ title: "Coffee Journey"
 permalink: /test_test
 ---
 
-<link href="css/hacker.css" rel="stylesheet">
+<link href="/hacker.css" rel="stylesheet">
 
 ## lessgooo
