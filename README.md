@@ -39,7 +39,7 @@ stay tuned
 ## Statistics & Econometrics
 * ref
 * idea
-* 
+
 ## Economics & Game Theory
 * ref
 * idea
