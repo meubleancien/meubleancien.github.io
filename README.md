@@ -28,10 +28,11 @@ stay tuned
 
 
 ## Machine Learning & Artificial Intelligence
-#### Deep Learning
+### Deep Learning
 * ref 1
 * ref 2
-#### Conformal prediction
+  
+### Conformal prediction
 * ref 1
 * ref 2
 
