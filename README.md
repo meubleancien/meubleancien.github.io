@@ -28,9 +28,12 @@ stay tuned
 
 
 ## Machine Learning & Artificial Intelligence
-* ref
-* idea
-* notions: causal inference
+#### Deep Learning
+* ref 1
+* ref 2
+#### Conformal prediction
+* ref 1
+* ref 2
 
 ## Mathematics
 * ref
