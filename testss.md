@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Coffee Journey"
-permalink: /test_test
+permalink: /testss
 ---
 
 <link href="/hacker.css" rel="stylesheet">
