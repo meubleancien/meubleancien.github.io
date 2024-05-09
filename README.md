@@ -26,39 +26,26 @@ stay tuned
                                 🍓   END    🍓    
                                 🍓🍓🍓🍓🍓🍓
 
-## Economics
+
+## Machine Learning & Artificial Intelligence
 * ref
 * idea
 * notions: causal inference
-
-## Game Theory
-* ref
-* idea
-* notions: mechanism design 
 
 ## Mathematics
 * ref
 * idea
 
-## Statistics/ML
+## Statistics & Econometrics
 * ref
 * idea
-
-## Artificial intelligence
+* 
+## Economics & Game Theory
 * ref
 * idea
-* notions: transformers
-
-
-## Philosophy
-* ref
-* idea
+* notions: mechanism design
 
 ## Blockchain 
-* ref
-* idea
-
-## Computer Science
 * ref
 * idea
 
