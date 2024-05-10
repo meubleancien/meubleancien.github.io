@@ -4,7 +4,7 @@ title: "tesst"
 permalink: /testss
 ---
 
-<link href="/modest.css" rel="stylesheet">
+<link href="/dark.css" rel="stylesheet">
 
 
 <h1 align="center"> Deep Learning </h1>
