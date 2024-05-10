@@ -29,33 +29,33 @@ stay tuned
 
 ## Machine Learning & Artificial Intelligence
 
-### [*Deep Learning*]({{ https://meubleancien.github.io/ }}{% link deep_learning.md %})
+* [Deep Learning]({{ https://meubleancien.github.io/ }}{% link deep_learning.md %})
 
-### [*Conformal prediction*]({{ https://meubleancien.github.io/ }}{% link conformal_prediction.md %})
+* [Conformal prediction]({{ https://meubleancien.github.io/ }}{% link conformal_prediction.md %})
 
 
 ## Mathematics
 
-### [*Linear Algebra*]({{ https://meubleancien.github.io/ }}{% link linear_algebra.md %})
+* [Linear Algebra]({{ https://meubleancien.github.io/ }}{% link linear_algebra.md %})
 
 
 ## Statistics & Econometrics
 
-### [*Instrumental Variables*]({{ https://meubleancien.github.io/ }}{% link instrumental_variables.md %})
+* [Instrumental Variables]({{ https://meubleancien.github.io/ }}{% link instrumental_variables.md %})
 
-### [*Causal Inference*]({{ https://meubleancien.github.io/ }}{% link causal_inference.md %})
+* [Causal Inference]({{ https://meubleancien.github.io/ }}{% link causal_inference.md %})
 
 
 ## Economics & Game Theory
 
-### [*Mechanism Design*]({{ https://meubleancien.github.io/ }}{% link mechanism_design.md %})
+* [Mechanism Design]({{ https://meubleancien.github.io/ }}{% link mechanism_design.md %})
 
 
 ## Blockchain 
 
-### [*Smart Contracts*]({{ https://meubleancien.github.io/ }}{% link smart_contracts.md %})
+* [Smart Contracts]({{ https://meubleancien.github.io/ }}{% link smart_contracts.md %})
 
-### [*DAOs*]({{ https://meubleancien.github.io/ }}{% daos.md %})
+* [DAOs]({{ https://meubleancien.github.io/ }}{% link daos.md %})
 
 
 ## Miscellaneous
