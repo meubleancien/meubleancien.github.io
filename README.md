@@ -31,7 +31,7 @@ stay tuned
 
 * [Deep Learning]({{ https://meubleancien.github.io/ }}{% link deep_learning.md %})
 
-* [Conformal prediction]({{ https://meubleancien.github.io/ }}{% link conformal_prediction.md %})
+* [Conformal Prediction]({{ https://meubleancien.github.io/ }}{% link conformal_prediction.md %})
 
 
 ## Mathematics
