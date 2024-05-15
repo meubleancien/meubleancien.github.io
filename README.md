@@ -57,6 +57,9 @@ stay tuned
 
 * [DAOs]({{ https://meubleancien.github.io/ }}{% link daos.md %})
 
+## Cryptography
+
+* [Homomorphic Encryption]({{ https://meubleancien.github.io/ }}{% link fhe.md %})
 
 ## Miscellaneous
 * [biking](https://pedalchile.com/blog/cycling-vs-walking)
