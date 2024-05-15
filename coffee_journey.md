@@ -56,15 +56,15 @@ permalink: /coffee_journey
 
 >Another impact:better work quality (starting the day with a coffee is better then with a whisky)
 
->Paris also, at st germain
+>Paris also, at St Germain
 
 >To the US, Boston Tea Party fostered coffee consumption (so far tea was preferred)
 
 >Missionaries and travelers, traders and colonists continued to carry coffee seeds to new lands
 
->By the end of the 18th century, coffee had become one of the world's most consumed beverage.
+>By the end of the 18th century, coffee had become one of the world's most consumed beverage
 
-  > test test test.
+
 
 
 
