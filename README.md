@@ -21,6 +21,8 @@
 
 * [Causal Inference]({{ https://meubleancien.github.io/ }}{% link causal_inference.md %})
 
+* [Generalized Linear Models]({{ https://meubleancien.github.io/ }}{% link GLM.md %})
+
 
 ## Computer Science
 
