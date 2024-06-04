@@ -26,6 +26,8 @@
 
 ## Computer Science
 
+* [Distributed System]({{ https://meubleancien.github.io/ }}{% link distributed_system.md %})
+
 
 ## Economics & Game Theory
 
