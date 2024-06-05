@@ -45,6 +45,9 @@
 * [Homomorphic Encryption]({{ https://meubleancien.github.io/ }}{% link fhe.md %})
 
 ## Miscellaneous
+
+* Project Ideas 
+
 * [biking](https://pedalchile.com/blog/cycling-vs-walking)
 
 * [Coffee Journey]({{ https://meubleancien.github.io/ }}{% link coffee_journey.md %})
