@@ -46,7 +46,7 @@
 
 ## Miscellaneous
 
-* Project Ideas 
+* [Project Ideas]({{ https://meubleancien.github.io/ }}{% link proj_ideas.md %}) 
 
 * [biking](https://pedalchile.com/blog/cycling-vs-walking)
 
