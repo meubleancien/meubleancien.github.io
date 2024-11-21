@@ -30,7 +30,7 @@
 
 * [Distributed Systems]({{ https://meubleancien.github.io/ }}{% link distributed_system.md %})
 
-* [Sorting Algorithms]({{ https://meubleancien.github.io/ }}{% link sort_algorithm.md %})
+* [Algorithms]({{ https://meubleancien.github.io/ }}{% link sort_algorithm.md %})
 
 
 ## Economics & Game Theory
