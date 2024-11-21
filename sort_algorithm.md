@@ -11,6 +11,6 @@ permalink: /sort_algorithm
 
 * [Suffix arrays (programming angle)](http://web.stanford.edu/class/cs97si/suffix-array.pdf)
 
-List of algorithms i've studied in detail:
+List of algorithms i've studied in detail: (A good source for that is [just here](https://cp-algorithms.com/))
 
 * KMP (Knuth-Morris-Pratt) algorithm
