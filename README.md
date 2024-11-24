@@ -44,6 +44,8 @@
 
 * [DAOs]({{ https://meubleancien.github.io/ }}{% link daos.md %})
 
+* [AMM]({{ https://meubleancien.github.io/ }}{% link amm.md %})
+
 ## Cryptography
 
 * [Homomorphic Encryption]({{ https://meubleancien.github.io/ }}{% link fhe.md %})
