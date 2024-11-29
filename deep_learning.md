@@ -11,5 +11,7 @@ permalink: /deep_learning
 * [Good textbook](https://www.deeplearningbook.org/)
 
 * [Intuitions behind the Universal Approximation Theorem](https://neuralnetworksanddeeplearning.com/chap4.html) and a more [detailed introduction](https://www.deep-mind.org/2023/03/26/the-universal-approximation-theorem/)
+
+* [Running LLMs locally, good tuto](https://steelph0enix.github.io/posts/llama-cpp-guide/)
   
 
