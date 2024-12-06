@@ -16,3 +16,5 @@ permalink: /deep_learning
 
 * DeepSeek innovation, [Multi-Head Latent Attention](https://towardsai.net/p/artificial-intelligence/a-visual-walkthrough-of-deepseeks-multi-head-latent-attention-mla-%EF%B8%8F)
 
+* A bit of neuroscience (from 2020 tho), [here](https://www.insightsfromthebrain.com/)
+
