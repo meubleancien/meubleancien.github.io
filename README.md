@@ -26,6 +26,8 @@
 
 ## Computer Science
 
+* [Web]({{ https://meubleancien.github.io/ }}{% link web.md %})
+
 * [Python Style Guide]({{ https://meubleancien.github.io/ }}{% link python_style_guide.md %})
 
 * [Distributed Systems]({{ https://meubleancien.github.io/ }}{% link distributed_system.md %})
