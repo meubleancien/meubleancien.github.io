@@ -38,6 +38,8 @@
 
 * [Python Style Guide]({{ https://meubleancien.github.io/ }}{% link python_style_guide.md %})
 
+* [Rust]({{ https://meubleancien.github.io/ }}{% link Rust.md %})
+
 * [Distributed Systems]({{ https://meubleancien.github.io/ }}{% link distributed_system.md %})
 
 * [Algorithms]({{ https://meubleancien.github.io/ }}{% link sort_algorithm.md %})
