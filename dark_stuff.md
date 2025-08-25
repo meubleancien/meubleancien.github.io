@@ -16,3 +16,5 @@ permalink: /dark_stuff
 * From-logic-gate-to-big-machine [tutorial](https://www.nand2tetris.org/course)
 
 * [Stack vs Heap](https://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap)
+
+* [Let it loop](https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md)
