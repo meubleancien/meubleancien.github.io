@@ -10,3 +10,5 @@ permalink: /fhe
 
 
 * [Homomorphic Encryption from scratch in Python !](https://blog.openmined.org/build-an-homomorphic-encryption-scheme-from-scratch-with-python/)
+
+* [Good platform to learn](https://cryptohack.org/)
