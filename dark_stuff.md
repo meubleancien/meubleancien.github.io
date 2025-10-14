@@ -18,3 +18,5 @@ permalink: /dark_stuff
 * [Stack vs Heap](https://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap)
 
 * [Let it loop](https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md)
+
+* Interesting ideas on [why](https://people.csail.mit.edu/rachit/post/why-study-programming-languages/) creating new programming languages (not so dark either)
