@@ -20,3 +20,5 @@ permalink: /dark_stuff
 * [Let it loop](https://github.com/repomirrorhq/repomirror/blob/main/repomirror.md)
 
 * Interesting ideas on [why](https://people.csail.mit.edu/rachit/post/why-study-programming-languages/) creating new programming languages (not so dark either)
+
+* [Pickle discussion](https://blog.trailofbits.com/2021/03/15/never-a-dill-moment-exploiting-machine-learning-pickle-files/)
