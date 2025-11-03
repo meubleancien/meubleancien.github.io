@@ -18,3 +18,5 @@ permalink: /deep_learning
 
 * A bit of neuroscience (from 2020 tho), [here](https://www.insightsfromthebrain.com/)
 
+* Are LLMs really [injective](https://www.arxiv.org/abs/2510.15511) ?
+
