@@ -22,3 +22,5 @@ permalink: /dark_stuff
 * Interesting ideas on [why](https://people.csail.mit.edu/rachit/post/why-study-programming-languages/) creating new programming languages (not so dark either)
 
 * [Pickle discussion](https://blog.trailofbits.com/2021/03/15/never-a-dill-moment-exploiting-machine-learning-pickle-files/)
+
+* A bunch of nice [little things](https://ratatui.rs/showcase/apps/). Again nothing dark here, I really have to create another markdown page.
