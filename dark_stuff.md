@@ -24,3 +24,5 @@ permalink: /dark_stuff
 * [Pickle discussion](https://blog.trailofbits.com/2021/03/15/never-a-dill-moment-exploiting-machine-learning-pickle-files/)
 
 * A bunch of nice [little things](https://ratatui.rs/showcase/apps/). Again nothing dark here, I really have to create another markdown page.
+
+* [This](https://dis.art/counterfeit-poast) is actually a bit dark (this page is getting big, life is dark !)
