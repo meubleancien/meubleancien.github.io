@@ -44,9 +44,9 @@
 
 * [Algorithms]({{ https://meubleancien.github.io/ }}{% link sort_algorithm.md %})
 
-*  [Dark stuff]({{ https://meubleancien.github.io/ }}{% link dark_stuff.md %})
+* [Dark stuff]({{ https://meubleancien.github.io/ }}{% link dark_stuff.md %})
 
-*  [Dev's personal dev]({{ https://meubleancien.github.io/ }}{% link perso_dev.md %})
+* [Dev's Personal Dev]({{ https://meubleancien.github.io/ }}{% link perso_dev.md %})
 
 
 ## Economics & Game Theory
