@@ -46,6 +46,8 @@
 
 *  [Dark stuff]({{ https://meubleancien.github.io/ }}{% link dark_stuff.md %})
 
+*  [Dev's personal dev]({{ https://meubleancien.github.io/ }}{% link perso_dev.md %})
+
 
 ## Economics & Game Theory
 
