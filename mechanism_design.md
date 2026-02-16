@@ -6,4 +6,4 @@ permalink: /mechanism_design
 
 
 
-<h1 align="center"> Mechanism Desgin </h1>
+<h1 align="center"> Mechanism Design </h1>
