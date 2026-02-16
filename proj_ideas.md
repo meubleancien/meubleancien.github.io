@@ -8,6 +8,7 @@ permalink: /proj_ideas
 
 <h1 align="center"> Project Ideas </h1>
 
+
 The Daniel Kahneman Algorithm to moderate our intuitive predictions.
 
 
@@ -18,3 +19,7 @@ The Daniel Kahneman Algorithm to moderate our intuitive predictions.
 
 
 [This with FHE ? Should I try ?](https://overreacted.io/a-social-filesystem/#a-social-filesystem)
+
+
+Would be interested to test [Simile](https://www.simile.ai/) for mechanism design situations.
+
