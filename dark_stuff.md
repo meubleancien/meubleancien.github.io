@@ -26,3 +26,5 @@ permalink: /dark_stuff
 * A bunch of nice [little things](https://ratatui.rs/showcase/apps/). Again nothing dark here, I really have to create another markdown page.
 
 * [This](https://dis.art/counterfeit-poast) is actually a bit dark (this page is getting big, life is dark !)
+
+* Good [courses](https://github.com/exo7math/quantum-exo7/tree/master) on quantum programming.
