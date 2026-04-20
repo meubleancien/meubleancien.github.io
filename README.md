@@ -44,6 +44,8 @@
 
 * [Algorithms]({{ https://meubleancien.github.io/ }}{% link sort_algorithm.md %})
 
+* [Data Structure]({{ https://meubleancien.github.io/ }}{% link data_structure.md %})
+
 * [Dark stuff]({{ https://meubleancien.github.io/ }}{% link dark_stuff.md %})
 
 * [Dev's Personal Dev]({{ https://meubleancien.github.io/ }}{% link perso_dev.md %})
