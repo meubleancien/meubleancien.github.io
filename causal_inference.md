@@ -10,3 +10,4 @@ permalink: /causal_inference
 
 * The guide for causality is [here](https://matheusfacure.github.io/python-causality-handbook/landing-page.html).
 * [A/B testing and statistical significance](https://drive.google.com/file/d/1oK2HpKKXeQLX6gQeQpfEaCGZtNr2kR76/view).
+* [Boosting](https://brrm.io/posts/boosting-for-causal-effect-estimation/) for causal model, nice !
