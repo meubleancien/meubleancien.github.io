@@ -23,3 +23,6 @@ The Daniel Kahneman Algorithm to moderate our intuitive predictions.
 
 Would be interested to test [Simile](https://www.simile.ai/) for mechanism design situations.
 
+
+Study overfitting in LLMs: given [training data size](https://geohot.github.io/blog/jekyll/update/2026/05/20/what-will-better-mean.html)(I trust this man) and current (May 2026) models size, to what extent can we say that LLMs tend to be huge lookup table ? Signal is actually way larger than 20T token given the interaction space (each token appears in multiple different situations) but still would be interesting to look at DL models for which weights is 10-20% of training dataset size. 
+
