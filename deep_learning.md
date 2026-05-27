@@ -23,3 +23,5 @@ permalink: /deep_learning
 * NN for [chess](https://cp4space.hatsya.com/2021/01/08/the-neural-network-of-the-stockfish-chess-engine/) (Stockfish).
 
 * Really good article on [Pytorch and contiguous tensors](https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/)
+
+* Let's go [brrrrr](https://horace.io/brrr_intro.html)
