@@ -53,8 +53,6 @@
 
 ## Security
 
-* [LLM & Agentic safety]({{ https://meubleancien.github.io/ }}{% link llm_safe.md %})
-
 * [Vulns]({{ https://meubleancien.github.io/ }}{% link vulns.md %})
 
 
