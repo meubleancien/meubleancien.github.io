@@ -51,6 +51,13 @@
 * [Dev's Personal Dev]({{ https://meubleancien.github.io/ }}{% link perso_dev.md %})
 
 
+## Security
+
+* [LLM & Agentic safety]({{ https://meubleancien.github.io/ }}{% link llm_safe.md %})
+
+* [Vulns]({{ https://meubleancien.github.io/ }}{% link vulns.md %})
+
+
 ## Economics & Game Theory
 
 * [Mechanism Design]({{ https://meubleancien.github.io/ }}{% link mechanism_design.md %})
