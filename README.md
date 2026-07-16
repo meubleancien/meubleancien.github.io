@@ -55,6 +55,8 @@
 
 * [Vulns]({{ https://meubleancien.github.io/ }}{% link vulns.md %})
 
+* [LLM & Agentic safety]({{ https://meubleancien.github.io/ }}{% link llm_safe.md %})
+
 
 ## Economics & Game Theory
 
