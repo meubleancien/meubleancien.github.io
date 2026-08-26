@@ -28,3 +28,5 @@ permalink: /dark_stuff
 * [This](https://dis.art/counterfeit-poast) is actually a bit dark (this page is getting big, life is dark !)
 
 * Good [courses](https://github.com/exo7math/quantum-exo7/tree/master) on quantum programming.
+
+* Finally [very dark stuff](https://dis.art/counterfeit-poast).
