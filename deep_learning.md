@@ -25,3 +25,5 @@ permalink: /deep_learning
 * Really good article on [Pytorch and contiguous tensors](https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/)
 
 * Let's go [brrrrr](https://horace.io/brrr_intro.html)
+
+* Tabular Foundation Model [course !](https://tabularfoundationmodels.com/) by the maestro C.Molnar.
