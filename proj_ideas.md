@@ -35,3 +35,5 @@ Study of overfitting in LLMs: given [training data size](https://geohot.github.i
 * Cryprography Technical: keys management is complicated, especially for the training step (distributed key generation, committee appointment) and potentially breaks a bit the project main vibe.
 * ML Technical: FHE works today, but is still a bit limited, in term of model size and variety, but also regarding types you can encrypt (only small integer). For certain features it means finding a way to make them simpler in order to be encrypted.
 * Social: In term of incentive, how to ensure people send true data and not random/malicious info in order to bias the model ?
+
+**Art**: Pretty [ASCII](https://ascii.rest/)
