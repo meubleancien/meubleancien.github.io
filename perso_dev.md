@@ -15,3 +15,5 @@ permalink: /perso_dev
 * [To read](http://www.catb.org/~esr/faqs/smart-questions.html#not_losing)
 
 * [Good testing overview I think](https://blog.janestreet.com/getting-from-tested-to-battle-tested/)
+
+* Let's [write](https://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html)
